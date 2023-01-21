@@ -56,4 +56,4 @@ bot.on('message', message => {
 });
 
 // This should be the last line
-bot.login('NzgwNzk5NDk4ODY3ODM0ODgw.GZiyuy.LZ6ftUovxtadUIojZF5F2HQCrFIPmEZnf-XBmg');
+bot.login(TOKEN);
