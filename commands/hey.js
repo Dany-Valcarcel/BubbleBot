@@ -14,7 +14,7 @@ module.exports = {
         } else if (message.author.id == 640046013729472512) { // Fionna
             replies = [
                 "https://www.youtube.com/watch?v=2N6AcMv2OGE",
-                "Hiya, Fifi"
+                "Hiya, Fifi",
                 "Hey, how are ya?",
                 "The group villainess? With a title like that you're bound to go \"mwa ha ha \" at some point, I just know it...",
             ];
@@ -46,7 +46,7 @@ module.exports = {
             ];
         } else if (message.author.id == 432020359164723200) { // Yvette
             replies = [
-                "Hope you actually finished your homework lol,
+                "Hope you actually finished your homework lol",
                 "Yoooo what's up Yvette?! :sunglasses:"
             ];
         } else if (message.author.id == 695345723591622758) { // Rebecca
@@ -63,7 +63,7 @@ module.exports = {
             ];
         } else if (message.author.id == 689977303283007541) { // Muna
             replies = [
-                "HI MUNA!!
+                "HI MUNA!!"
             ];
         } else {
             replies = ["Howdy!"];
