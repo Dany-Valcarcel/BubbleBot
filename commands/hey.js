@@ -6,8 +6,7 @@ module.exports = {
 
         if (message.author.id == 203261206969057280) { // Danielle
             replies = [
-                "Hello Mother uwu",
-                "Make way for smelly supreme!",
+                "Hello, Danielle!",
                 "Hello! You look fabulous today!",
                 "*Hee hee ha hoo hee ha hoooo*",
                 "watch out for a bunch of boneless women flopping through the streets"
@@ -15,16 +14,14 @@ module.exports = {
         } else if (message.author.id == 640046013729472512) { // Fionna
             replies = [
                 "https://www.youtube.com/watch?v=2N6AcMv2OGE",
-                "Here comes the clownmeister herself~",
-                "HONK HONK :clown:",
-                "Ew. It's youuuuu...",
+                "Hiya, Fifi"
+                "Hey, how are ya?",
                 "The group villainess? With a title like that you're bound to go \"mwa ha ha \" at some point, I just know it...",
             ];
         } else if (message.author.id == 270276933894275074) { // Janet
             replies = [
-                "Hewwo! OwO!!",
-                "pee pee poo poo",
-                "Hi Janet! Still simping, I see...",
+                "Make way for Jan!",
+                "Hi Jan! You look fabulous today!",
                 "Haiiii! UwU",
                 "KACHOW!!!",
                 "What would I do without my favourite simp? I'd cry myself to sleep."
@@ -49,16 +46,16 @@ module.exports = {
             ];
         } else if (message.author.id == 432020359164723200) { // Yvette
             replies = [
-                "Hope you actually finished your homework lmao.",
+                "Hope you actually finished your homework lol,
                 "Yoooo what's up Yvette?! :sunglasses:"
             ];
         } else if (message.author.id == 695345723591622758) { // Rebecca
             replies = [
-                "Yo yo yoooo Rebeccaaaa."
+                "Yo yo yoooo Rebecca."
             ];
         } else if (message.author.id == 689976696434458664) { // Victoria
             replies = [
-                "Hola, chismosa!"
+                "Hola, Vicky!"
             ];
         } else if (message.author.id == 675421163903516698) { // Belane
             replies = [
@@ -66,7 +63,7 @@ module.exports = {
             ];
         } else if (message.author.id == 689977303283007541) { // Muna
             replies = [
-                "OH MY GOD! MUNA'S ON THE SERVER!!"
+                "HI MUNA!!
             ];
         } else {
             replies = ["Howdy!"];
