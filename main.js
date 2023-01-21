@@ -1,9 +1,12 @@
+require('dotenv').config();
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const prefix = '+';
 const fs = require('fs');
 bot.commands = new Discord.Collection();
 bot.aliases = new Discord.Collection();
+const tk = process.env.TOKEN;
+
 
 const commandFiles = fs.readdirSync('./commands/').filter(file => file.endsWith('.js'));
 
@@ -56,4 +59,4 @@ bot.on('message', message => {
 });
 
 // This should be the last line
-bot.login(TOKEN);
+bot.login(tk);

@@ -9,6 +9,9 @@
   "author": "dani_valcro",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.0"
+    "discord.js": "^12.5.0",
+    "dotenv": "^16.0.3",
+    "install": "^0.13.0",
+    "npm": "^9.3.1"
   }
 }
